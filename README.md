@@ -1,3 +1,5 @@
+<img src="https://content.techgig.com/photo/82278297/5-top-advantages-of-using-golang-programming-language.jpg?35743" height=400 />
+
 ### 📕 书籍
 
 《Go语言实战》[EPUB](https://github.com/heqingbao/tour-of-go/blob/master/books/Go%E8%AF%AD%E8%A8%80%E5%AE%9E%E6%88%98%20Chinese_2017.epub)
