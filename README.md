@@ -1,4 +1,4 @@
-<img src="https://content.techgig.com/photo/82278297/5-top-advantages-of-using-golang-programming-language.jpg?35743" height=400 />
+<img src="tour-of-go.jpeg" height=400 />
 
 ### 📕 书籍
 
